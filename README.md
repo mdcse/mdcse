@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishikbal83@gamil.com)](mailto:danishikbal83@gmail.com)
 
 
-#some stats
+## Some Statistics About Me
 ![Danish's github stats](https://github-readme-stats.vercel.app/api?username=mdcse&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
 <!--
 - 🤔 I’m looking for help with ...
