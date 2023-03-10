@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Backed Project of Python
 
 
-- 📫 Reach me me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mdcse/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishikbal83@gamil.com)](danishikbal83@gmail.com)
+- 📫 Reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mdcse/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishikbal83@gamil.com)](mailto:danishikbal83@gmail.com)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
