@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 - 📫 Reach me :[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mdcse/) 
 ,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishikbal83@gamil.com)](mailto:danishikbal83@gmail.com)
+
+
+#some stats
+![Danish's github stats](https://github-readme-stats.vercel.app/api?username=mdcse&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
