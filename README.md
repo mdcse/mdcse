@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 - 📫 Reach me :[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mdcse/) 
-,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishikbal83@gamil.com)](mailto:danishikbal83@gmail.com)
-
+,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishikbal83@gamil.com)](mailto:danishikbal83@gmail.com),
+<a href="https://leetcode.com/mdcse/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
 
 👨‍💻 Programming Languages
 
