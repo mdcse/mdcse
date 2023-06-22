@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white"></a>
 </p>
 
-<!--
+
 ## Some Statistics About Me
 ![Danish's github stats](https://github-readme-stats.vercel.app/api?username=mdcse&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
 <!--
