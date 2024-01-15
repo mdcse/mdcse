@@ -49,6 +49,17 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white"></a>
 </p>
 
+🛠️ Software and Tools
+<p>
+    <a href="https://www.google.com/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://www.sublimetext.com/"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"></a>
+</p>
+User
+
 <!--
 ## Some Statistics About Me
 ![Danish's github stats](https://github-readme-stats.vercel.app/api?username=mdcse&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
